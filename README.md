@@ -23,7 +23,7 @@ I hope I can contribute to making a better world as a developer. 🌎
   <img src="https://img.shields.io/badge/oracle-FF4848?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
 </p>
-<br><br>
+<br>
 **Sub Stacks**  
 <p>
   <img src="https://img.shields.io/badge/HTML5-FF8224?style=flat-square&logo=html5&logoColor=white"/>
@@ -32,7 +32,7 @@ I hope I can contribute to making a better world as a developer. 🌎
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=black">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </p>
-<br><br>
+<br>
 **Tools**
 <p>
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=white"/>
