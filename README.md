@@ -8,7 +8,7 @@
 
 
 I am an enthusiastic **Back-end developer** acquiring skills and knowledge every day. 👨‍💻  
-I like to run and fitness 🏃‍♀️ 💪
+I like to run and fitness 🏃‍♀️ 💪<br>
 I hope I can contribute to making a better world as a developer. 🌎
 <br>
 <br>
