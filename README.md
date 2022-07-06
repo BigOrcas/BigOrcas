@@ -6,6 +6,7 @@
   <a href="mailto:bigwhale1948@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bigwhale1948@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   <br>
+  <br>
 
 
 I am an enthusiastic **Back-end developer** acquiring skills and knowledge every day. 👨‍💻  
@@ -25,7 +26,9 @@ I hope I can contribute to making a better world as a developer. 🌎
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
 </p>
 <br>
+
 **Sub Stacks**  
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-FF8224?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-4375DB?style=flat-square&logo=css3&logoColor=white"/>
@@ -34,7 +37,9 @@ I hope I can contribute to making a better world as a developer. 🌎
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </p>
 <br>
+
 **Tools**
+
 <p>
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-f7f7f7?style=flat-square&logo=Notion&logoColor=black"/>
