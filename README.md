@@ -1,5 +1,6 @@
 **Hello World 👋**
 
+<a href="https://velog.io/@sweetcorn09" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://bigwhale1948.tistory.com/" target="_blank">
  <img src="https://img.shields.io/badge/Tech_Blog-ABC9FF?style=flat-square&logo=%20Sponsors&logoColor=white"/>
   </a>
@@ -9,7 +10,7 @@
   <br>
 
 
-I am an enthusiastic **Back-end developer** acquiring skills and knowledge every day. 👨‍💻  
+I am a **Back-end developer** who feel the value of being together and think about better communication. 👨‍💻  
 I like to run and fitness 🏃‍♀️ 💪<br>
 I hope I can contribute to making a better world as a developer. 🌎
 <br>
