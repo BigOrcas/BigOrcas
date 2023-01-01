@@ -7,8 +7,6 @@ Hi, I'm Taeho!👋
 </div>
 
 </h1>
-  
-I am a **Back-end developer** who feel the value of being together and think about better communication. 👨‍💻  
 
 - 🌱 I am a **Back-end developer** who feel the value of being together and think about better communication.
 - 📫 How to reach me: bigwhale1948@gmail.com
