@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Taeho!👋
-
- <br>
+</h1>
+ </br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BigOrcas&label=Profile%20Views&color=EB70B0&style=fla">
@@ -10,7 +10,7 @@ Hi, I'm Taeho!👋
 
  <br>
 
-</h1>
+
 
 - 🌱 I am a **Back-end developer** who feel the value of being together and think about better communication.
 - 📫 How to reach me: bigwhale1948@gmail.com
