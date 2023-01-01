@@ -1,10 +1,14 @@
 <h1 align="center">
 Hi, I'm Taeho!👋
 
+ <br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BigOrcas&label=Profile%20Views&color=EB70B0&style=fla">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBigOrcas&count_bg=%233D81C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
+
+ <br>
 
 </h1>
 
