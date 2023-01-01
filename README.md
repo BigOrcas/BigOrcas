@@ -1,46 +1,37 @@
-**Hello World 👋**
+<h1 align="center">
+Hi, I'm Taeho!👋
 
-<a href="https://velog.io/@sweetcorn09" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://bigwhale1948.tistory.com/" target="_blank">
- <img src="https://img.shields.io/badge/Tech_Blog-ABC9FF?style=flat-square&logo=%20Sponsors&logoColor=white"/>
-  </a>
-  <a href="mailto:bigwhale1948@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bigwhale1948@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-  <br>
-  <br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BigOrcas&label=Profile%20Views&color=EB70B0&style=fla">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBigOrcas&count_bg=%233D81C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
 
-
-I am a **Back-end developer** who feel the value of being together and think about better communication. 👨‍💻  
-I like to run and fitness 🏃‍♀️ 💪<br>
-I hope I can contribute to making a better world as a developer. 🌎
-<br>
-<br>
-
-### 💪 Skills
+</h1>
   
-**Main Stacks**  
+I am a **Back-end developer** who feel the value of being together and think about better communication. 👨‍💻  
 
-<p>
-  <img src="https://img.shields.io/badge/Java-937062?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/oracle-FF4848?style=flat-square&logo=oracle&logoColor=white"> 
+- 🌱 I am a **Back-end developer** who feel the value of being together and think about better communication.
+- 📫 How to reach me: bigwhale1948@gmail.com
+- 💻 [MY BLOG](https://bigwhale1948.tistory.com/)
+
+
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+ <br>
+    <img src="https://img.shields.io/badge/MyBatis-57BCAD?style=flat-square&logo=MyBatis&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JPA-FFFF09?style=flat-square&logo=JPA&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+ 
 </p>
+
 <br>
 
-**Sub Stacks**  
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-FF8224?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-4375DB?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-FFCD12?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=black">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-</p>
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigOrcas&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-**Tools**
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-f7f7f7?style=flat-square&logo=Notion&logoColor=black"/>  
-</p>
